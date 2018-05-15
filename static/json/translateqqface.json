@@ -1,0 +1,527 @@
+[
+  {
+    "category": "qqface",
+    "value": "[微笑]",
+    "icon": "http://101.132.33.159:5000/20180502/2631970852ad4fe4bd0466ded7fc7e6a.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[撇嘴]",
+    "icon": "http://101.132.33.159:5000/20180502/7cb0d5c75e874b41acd5d04ddb592da6.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[色]",
+    "icon": "http://101.132.33.159:5000/20180502/110e9d67e2974c41b88c42481cbec225.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[发呆]",
+    "icon": "http://101.132.33.159:5000/20180502/be2e9122c3744fcbaccc3fa6c3be9962.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[得意]",
+    "icon": "http://101.132.33.159:5000/20180502/310b6dbbf88d43399934e1c85f609a1b.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[流泪]",
+    "icon": "http://101.132.33.159:5000/20180502/74597a876ef64563b2fef7b3824d68c6.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[害羞]",
+    "icon": "http://101.132.33.159:5000/20180502/b7b9248e02df4f27a2223d881e229ecb.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[闭嘴]",
+    "icon": "http://101.132.33.159:5000/20180502/83bb0b95c424425fb49d208798b2ccd2.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[睡]",
+    "icon": "http://101.132.33.159:5000/20180502/a8f5867b23ee43d3874eeb7e388a62c9.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[大哭]",
+    "icon": "http://101.132.33.159:5000/20180502/23cbd8a94ac9456db693ec5d480899d7.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[尴尬]",
+    "icon": "http://101.132.33.159:5000/20180502/c16e6510940840f7bf71b4cb5f00b915.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[发怒]",
+    "icon": "http://101.132.33.159:5000/20180502/60aee6df608e486aa1a07545e8df4db0.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[调皮]",
+    "icon": "http://101.132.33.159:5000/20180502/d525faebcd9f48e89dde0c834724b16a.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[呲牙]",
+    "icon": "http://101.132.33.159:5000/20180502/a3a3c9c48ca04d5dbef1f2abbc8db45b.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[惊讶]",
+    "icon": "http://101.132.33.159:5000/20180502/f3879392b5ca45d8b2e1bbc66c20d8d6.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[难过]",
+    "icon": "http://101.132.33.159:5000/20180502/8505a566c4334c6f8327f040bdaac80f.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[冷汗]",
+    "icon": "http://101.132.33.159:5000/20180502/44911db766e440b0875ffd360e226abc.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[抓狂]",
+    "icon": "http://101.132.33.159:5000/20180502/500e0ab536114e3fb9d8d14d2c976900.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[吐]",
+    "icon": "http://101.132.33.159:5000/20180502/a001d545afa94cb19dab0214cb337307.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[偷笑]",
+    "icon": "http://101.132.33.159:5000/20180502/b09853fc5ead4087a9cba306d89c9dc5.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[愉快]",
+    "icon": "http://101.132.33.159:5000/20180502/97f9ab8b163b4a27897b494302de883e.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[白眼]",
+    "icon": "http://101.132.33.159:5000/20180502/0bff0ecc212b496e919f64aa157f7edb.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[傲慢]",
+    "icon": "http://101.132.33.159:5000/20180502/4e8f68f21a4b4f2cb3fb9b89f8b63a90.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[饥饿]",
+    "icon": "http://101.132.33.159:5000/20180502/b46a46ffb0e9462bb082473e2268740b.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[困]",
+    "icon": "http://101.132.33.159:5000/20180502/302d9f456a7b4914a031d9523da52c22.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[惊恐]",
+    "icon": "http://101.132.33.159:5000/20180502/c4e403f23e0643699619fcd46ac42c85.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[流汗]",
+    "icon": "http://101.132.33.159:5000/20180502/d9ec4292dafe4b87bb826461045bdcbe.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[悠闲]",
+    "icon": "http://101.132.33.159:5000/20180502/46de0ebca9334c33a490622819014d19.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[酷]",
+    "icon": "http://101.132.33.159:5000/20180502/e1ca26efe162410e9238b58e414d834e.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[憨笑]",
+    "icon": "http://101.132.33.159:5000/20180502/5470bf889add4428af0bab4ec8345a80.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[奋斗]",
+    "icon": "http://101.132.33.159:5000/20180502/f5cea8b087b74769a2271de09cd1c339.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[咒骂]",
+    "icon": "http://101.132.33.159:5000/20180502/7d14e4822d574785bb9b9726b79a29b2.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[疑问]",
+    "icon": "http://101.132.33.159:5000/20180502/0a6b4c081c924ef490ae4045b8b53901.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[嘘]",
+    "icon": "http://101.132.33.159:5000/20180502/2dc762647bcb4866b67fe55d05694980.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[晕]",
+    "icon": "http://101.132.33.159:5000/20180502/4a91543d3f5a4610bd7d38ef678af491.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[衰]",
+    "icon": "http://101.132.33.159:5000/20180502/622d302dc0174c8a98e2c3768b8d7507.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[骷髅]",
+    "icon": "http://101.132.33.159:5000/20180502/3939f2e3c5fa46fa8896086903cc62f8.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[敲打]",
+    "icon": "http://101.132.33.159:5000/20180502/e1a155f072c64bd49371c363ab25cf56.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[再见]",
+    "icon": "http://101.132.33.159:5000/20180502/ae1220f87b7941d1bfc5311dc540f8c8.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[擦汗]",
+    "icon": "http://101.132.33.159:5000/20180502/0b0b3ce17f124bf78876f28eb458a307.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[抠鼻]",
+    "icon": "http://101.132.33.159:5000/20180502/75782bc07a3047d8a2abd3b46787a197.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[鼓掌]",
+    "icon": "http://101.132.33.159:5000/20180502/62faf2645f5a4563b4154bc3f2cbea11.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[糗大了]",
+    "icon": "http://101.132.33.159:5000/20180502/81cdf84b0d5f4c5481e1ebb07ddcc5ef.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[坏笑]",
+    "icon": "http://101.132.33.159:5000/20180502/bb89e180d80b42bb80ac39cda5f25ab7.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[疯了]",
+    "icon": "http://101.132.33.159:5000/20180502/f63954be8e924bd9a6a7d0cfac22ae17.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[左哼哼]",
+    "icon": "http://101.132.33.159:5000/20180502/85357ef8fb324313b6563619353e67af.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[右哼哼]",
+    "icon": "http://101.132.33.159:5000/20180502/da1884893fa04becba6f9b638118f112.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[哈欠]",
+    "icon": "http://101.132.33.159:5000/20180502/223ab3cd310c413d86d3a01d9ff172b8.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[鄙视]",
+    "icon": "http://101.132.33.159:5000/20180502/1bfc12603d2d4767a54cdb1155625ea3.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[委屈]",
+    "icon": "http://101.132.33.159:5000/20180502/ee73dad66fb2481fa507f529f2e31f0d.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[快哭了]",
+    "icon": "http://101.132.33.159:5000/20180502/c7baa363c71c4a00bc922a490d1d4287.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[阴险]",
+    "icon": "http://101.132.33.159:5000/20180502/b320ec68099244c2ac52ff47128454d2.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[亲亲]",
+    "icon": "http://101.132.33.159:5000/20180502/770659563b684441af7b446fab0f81f5.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[吓]",
+    "icon": "http://101.132.33.159:5000/20180502/990189b192814a588d65bd25f9be0257.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[可怜]",
+    "icon": "http://101.132.33.159:5000/20180502/67c41478114a4d6195c195951c89926b.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[西瓜]",
+    "icon": "http://101.132.33.159:5000/20180502/8539a2cf1f8d4389a79801528475ed41.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[啤酒]",
+    "icon": "http://101.132.33.159:5000/20180502/e9545f07744a45a88ddba497787f8d61.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[篮球]",
+    "icon": "http://101.132.33.159:5000/20180502/44b3a9ccfa9b4cb88b9e2528ea82d5d6.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[乒乓]",
+    "icon": "http://101.132.33.159:5000/20180502/5996a3da9e9444b691f14419310f1f08.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[菜刀]",
+    "icon": "http://101.132.33.159:5000/20180502/7edbd6514e574b9a8bf4aa81576c4484.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[猪头]",
+    "icon": "http://101.132.33.159:5000/20180502/149b1d5e52224d75807500c0c471342c.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[玫瑰]",
+    "icon": "http://101.132.33.159:5000/20180502/91c40a55c1074a71be40cc2dd6da7abc.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[凋谢]",
+    "icon": "http://101.132.33.159:5000/20180502/b54b7d8b4d1c46bd8b215f03d248f803.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[蛋糕]",
+    "icon": "http://101.132.33.159:5000/20180502/3c2e79d3c1a748a5adfe32483e22d02e.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[闪电]",
+    "icon": "http://101.132.33.159:5000/20180502/ac701bc5be334268b636eb8de605e3c3.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[足球]",
+    "icon": "http://101.132.33.159:5000/20180502/d85d1b8473c040de91d43de13b8dcb81.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[瓢虫]",
+    "icon": "http://101.132.33.159:5000/20180502/27e8334f35014e3aa8ab198d52385c18.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[咖啡]",
+    "icon": "http://101.132.33.159:5000/20180502/bc848a4fe55448139f3b9f23041af7d0.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[饭]",
+    "icon": "http://101.132.33.159:5000/20180502/00bc7805284740aeb0ad2c6408f718f3.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[炸弹]",
+    "icon": "http://101.132.33.159:5000/20180502/ad9b35f38f1742d4b2db1b9c385b37a4.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[刀]",
+    "icon": "http://101.132.33.159:5000/20180502/a3552fe937c74181b1b346f63586dd88.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[便便]",
+    "icon": "http://101.132.33.159:5000/20180502/cde59447d7d3495ba9b7333b2dfcf102.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[爱心]",
+    "icon": "http://101.132.33.159:5000/20180502/4a0be1f85fe243d7837bd742f75ef087.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[心碎]",
+    "icon": "http://101.132.33.159:5000/20180502/8c5dd44156064a8c9643e15d6acd89f4.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[嘴唇]",
+    "icon": "http://101.132.33.159:5000/20180502/df20c5544e9e49f6a3c16eb3ffd93219.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[礼物]",
+    "icon": "http://101.132.33.159:5000/20180502/cc3dd8e9ee4c4f7f8afe71ccf611b3a8.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[拥抱]",
+    "icon": "http://101.132.33.159:5000/20180502/ef878829001e4e5590791deb16a06a09.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[强]",
+    "icon": "http://101.132.33.159:5000/20180502/bb5f1c757287496abd9a5a924788ef95.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[弱]",
+    "icon": "http://101.132.33.159:5000/20180502/1ce7b9c9fe094640a06ce911db7622ad.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[胜利]",
+    "icon": "http://101.132.33.159:5000/20180502/b28629bf910b4c8eb8584f033a02ad1c.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[抱拳]",
+    "icon": "http://101.132.33.159:5000/20180502/9a32e680739b4cf988399392323f46d6.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[拳头]",
+    "icon": "http://101.132.33.159:5000/20180502/c5d20153ea224696957e6bb316764165.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[差劲]",
+    "icon": "http://101.132.33.159:5000/20180502/0bece399510f4335b2e12be674e83622.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[爱你]",
+    "icon": "http://101.132.33.159:5000/20180502/4877169ec34d441a9c5d8b888b6e6f0e.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[NO]",
+    "icon": "http://101.132.33.159:5000/20180502/5a775e7fcbad4185bf2db424da2e55df.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[OK]",
+    "icon": "http://101.132.33.159:5000/20180502/43e60dcb46ed4df0aba3a49615d8ef4a.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[月亮]",
+    "icon": "http://101.132.33.159:5000/20180502/83194d075fdf4fce9ef4afebbb297f31.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[太阳]",
+    "icon": "http://101.132.33.159:5000/20180502/cc9924d2f25b43d9b55b226f87fdd466.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[勾引]",
+    "icon": "http://101.132.33.159:5000/20180502/a7286a1f703e4e978914b93d90796db0.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[握手]",
+    "icon": "http://101.132.33.159:5000/20180502/feb4d053950d4cc7b002feb515b76115.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[爱情]",
+    "icon": "http://101.132.33.159:5000/20180502/914f9b61501d479f980541a35786e45f.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[飞吻]",
+    "icon": "http://101.132.33.159:5000/20180502/0657be53e555464fa19c35abd5ef1471.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[发抖]",
+    "icon": "http://101.132.33.159:5000/20180502/4e2ccac3c3ad415198f78fe45de91a0e.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[怄火]",
+    "icon": "http://101.132.33.159:5000/20180502/4b61ee387a554d17abfc14cbafea7caf.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[转圈]",
+    "icon": "http://101.132.33.159:5000/20180502/968e92dd53584e509e8c63a07e8137ed.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[磕头]",
+    "icon": "http://101.132.33.159:5000/20180502/af1997d0f3894eaabff23a1fed3ba0f2.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[回头]",
+    "icon": "http://101.132.33.159:5000/20180502/68cd2c013ee14d63b52abd87fcfb3fca.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[激动]",
+    "icon": "http://101.132.33.159:5000/20180502/ea1a3caa0560497fa0e2821d5b888c71.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[乱舞]",
+    "icon": "http://101.132.33.159:5000/20180502/1000a69ef30a4d80b5afbc874bb48848.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[献吻]",
+    "icon": "http://101.132.33.159:5000/20180502/3c4453034882448c9e324b202a6059be.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[右太极]",
+    "icon": "http://101.132.33.159:5000/20180502/a0740a6e07604c1199a83b7d33661d0b.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[跳跳]",
+    "icon": "http://101.132.33.159:5000/20180502/0fb51359bfcf45eb8c2905363e07834f.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[跳绳]",
+    "icon": "http://101.132.33.159:5000/20180502/4cddc354a20d4e2e9207228ee6616ce3.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[左太极]",
+    "icon": "http://101.132.33.159:5000/20180502/013185a9b16e4e34a5afd4bf8ba6ec77.png"
+  },
+  {
+    "category": "qqface",
+    "value": "[投降]",
+    "icon": "http://101.132.33.159:5000/20180502/e4aafa8b0d3b4221ba62ddd6de7b8031.png"
+  }
+]
