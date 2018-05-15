@@ -5,6 +5,7 @@
 ## Build Setup
 
 ``` bash
+表情json文件里面的图片链接必须是完整线上链接，qqface仓库有qq表情图片
 # install dependencies
 npm install
 
